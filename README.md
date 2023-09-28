@@ -24,7 +24,7 @@ I have taught various topics in AI and Cloud Computing to students and professio
 
 If you have any questions or would like to discuss any topic further, please feel free to reach out to me. Thank you for visiting my repository!
 
-[![LinkedIn](https://www.linkedin.com/in/abdielwillyargoni/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/abdielwillyargoni/)
 
 
 
